@@ -1,8 +1,7 @@
-# QESD
-Quantum Entanglement Sudden Death
+#### Tripartite entanglement sudden death
 
 Source code for our publication:
-S. Xie, D. Younis, and J. H. Eberly, "Evidence for unexpected robustness of multipartite entanglement against sudden death from spontaneous emission", Phys. Rev. Research **5**, L032015 (2023).
+S. Xie, D. Younis, and J.H. Eberly, *"Evidence for unexpected robustness of multipartite entanglement against sudden death from spontaneous emission"*, [Phys. Rev. Research **5**, L032015 (2023)](https://doi.org/10.1103/PhysRevResearch.5.L032015).
 
 Primarily optimization routines and callers for the many objective functions therein.
 
